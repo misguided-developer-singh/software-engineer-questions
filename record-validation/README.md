@@ -39,15 +39,33 @@ Here are the questions, good luck!
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
    love to know why you’re proud of it.
 
+- Well, I feel proud when I do something good around me. It may be lending hand to others.
+  I try to keep myself happy and that makes me proud. So, even a small work whether it is my
+  office work or my personal work, If I am able to do it successfully, well, it makes me proud.
+
+
+
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
 
+- Well, lerning new technology and doing some practical on that particular topic is 
+  what currently my day today work. In addition to that, what is happening accrsoss the globe, is what I am 
+  more interested.
+
 3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
 
+- Quantum Computing and Blockchain were the two topics, I spend my time there.
+  Quantum computing takes advantage of quantum phenomena like superposition and quantum entanglement.
+  This amazing technology trend is also involved in preventing the spread of the coronavirus, 
+  and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data,
+  regardless of the source. 
+
 4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
+
+- I make use of "flowdock" and "slack", and I find it to be a great tool for team collaboration.
 
 5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
