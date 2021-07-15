@@ -7,12 +7,16 @@ import com.syniti.helper.Helper;
 public class ValidateRecords {
 
 	public static void main(String[] args) {
+
+		// init -> instance creation
 		Helper helper = new Helper();
 		
-		List<String> faultyRecords = helper.processJSON();
+		// get list of faulty records id
+		List<String> faultyRecordsId = helper.processJSON();
 		
-		for(String id: faultyRecords)
-			System.out.println(id );
+		// render the record id
+		for(String id: faultyRecordsId)
+				System.out.println(id );
 	}
 
 }

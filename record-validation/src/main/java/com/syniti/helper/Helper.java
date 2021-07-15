@@ -57,7 +57,7 @@ public class Helper {
 	}
 	
 	/**
-	 * This method will give you all faulty records id
+	 * This method will give you all list of all faulty records id
 	 * 
 	 * @return List<String>
 	 */
